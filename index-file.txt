@@ -1,0 +1,12 @@
+The basic format of an html file.
+
+<html>
+<head>
+ 
+</head>
+<body>
+
+
+
+</body>
+</html>
